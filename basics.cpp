@@ -31,7 +31,7 @@ int main(){
     // }
 
     cout << "Devops experiment 1: Github" << endl;
-    // cout << "Making extra changes in new branch";
+    cout << "Making changes in new branch";
 
     return 0;
 }
