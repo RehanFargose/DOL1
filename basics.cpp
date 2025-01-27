@@ -30,8 +30,8 @@ int main(){
     //     cout << "Enter valid marks";
     // }
 
-    cout << "STL viva experiment 2 Github: Updated the given code and made changes, now waiting to commit" << endl;
-    cout << "Making extra changes in new branch";
+    cout << "Devops experiment 1: Github" << endl;
+    // cout << "Making extra changes in new branch";
 
     return 0;
 }
